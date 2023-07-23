@@ -1,1 +1,1 @@
-# Customer_Churn_Prediction
+Customer churn prediction is the process of using data and machine learning algorithms to forecast the likelihood of customers discontinuing their relationship with a company. By identifying at-risk customers, businesses can implement targeted strategies to retain them and reduce churn, ultimately leading to improved customer retention and increased revenue.
